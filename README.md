@@ -141,6 +141,7 @@ Ejemplo de response:
     * Si el vuelo es dentro de los próximos 7 dias, se suma un 20% al preciod el pasaje.
     * La primera clase cuesta un 40% más que la clase económica para todos los casos.
     * Todos los vuelos con escala tienen un 40% de descuento en su precio final.
+* Si te resulta muy complejo resolver el feature de las escalas haciendo consultas a la base de datos, podés resolverlo en memoria trayendote todos los vuelos de la DB 
 
 ## Entregable
 
