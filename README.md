@@ -154,6 +154,7 @@ Se tendrán en cuenta:
 * Principios de diseño de API Rest.
 * Buen uso de MVC.
 * Buen diseño de las consultas a la base de datos.
+* Uso de las princopales herramientas de Laravel. (Eloquent, Controllers, Resources, QueryBuilder cuando sea necesario, etc)
 
 No te preocupes si hay alguno de los puntos que no te sale muy bien, ¡no tiene que estar perfecto! valoramos el esfuerzo así que no te rindas
 
