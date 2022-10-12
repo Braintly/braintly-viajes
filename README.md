@@ -135,6 +135,7 @@ Ejemplo de response:
 ```
 #### Consideraciones
 * Solo se aplicarán vuelos con escala si la distancia entre ambos aeropuertos es mayor a 5.000 kilómetros.
+* El tiempo de espera en la escala nunca puede ser mayor a 8 horas.
 * La distancia total del viaje al añadir una escala no puede ser superior a la distancia de vuelo directo más un 30%.
 * El precio de cada pasaje estará dado por la siguiente fórmula:
     * Si el vuelo es dentro de las próximas 24 horas, se suma un 35% al precio del pasaje.
